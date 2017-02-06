@@ -1,0 +1,9 @@
+@import "./color";
+
+// color
+$primary-color: $deep-pruple-500;
+$body-color: $grey-200;
+
+body {
+  background-color: $body-color;
+}
